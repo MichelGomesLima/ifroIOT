@@ -1,3 +1,20 @@
+/******************************************************************
+//  Arquivo: projetoBebedouro.ino
+//  Autores: Michel Lima, Altamir Junio, Carlos Vinicius, Keucilene Coelho e Shangella Candido.
+//
+//  Projeto: Bebedouro Inteligente
+//
+//  Data: Maio de 2021
+//
+//  Descricao:  Este projeto e` um prototipo desenvolvido para a disciplina
+//              de Internet das Coisas do Curso Superior de Analise e Desenvolvimento
+                de Sistemas oferecido pelo IFRO - Campus Ji-Parana.
+                
+                Este prototipo objetiva exemplicar/provar o potencial da solucao propostas
+                pelo grupo. Para tal, foram desenvolvidas as funcoes de conexao wifi para configuracao do
+                sensor ultrassonico e a parametrizacao dos componentes do sistema.
+
+*********************************************************************/
 
 #include <WiFi.h>
 #include <Ultrasonic.h>
